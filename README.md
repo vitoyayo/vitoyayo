@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=prashantkumarupadhyay2504&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=vitoyayo&label=Profile%20views&color=0e75b6&style=flat)" alt="vitoyayo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoyayo" alt="vitoyayo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoyayo&theme=algolia" alt="vitoyayo" /></a> </p>
 
 - 🔭 Working on project **Several Projects**
 
