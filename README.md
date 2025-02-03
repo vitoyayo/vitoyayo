@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoyayo&theme=algolia" alt="vitoyayo" /></a> </p>
 
-- 🔭 Working on project **Several Projects**
+- 🔭 Working on **Several Projects**
 
 - 💬 Ask me about **Backend Development / Ruby / Rails / API / Dev patterns**
 
