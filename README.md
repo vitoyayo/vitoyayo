@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Developer And Problem Solver</h3>
-<br><img align="center" alt="Coding" width="1000px" height="500vh"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<br><img align="center" alt="Coding" width="1000px" height="500vh"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndseGhnZm8xMGVmaHRtdGhxczc1YXd5dThvcmt3Z2E3bmZ4M3JoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumarupadhyay2504&label=Profile%20views&color=0e75b6&style=flat" alt="vitoyayo" /> </p>
 
