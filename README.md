@@ -3,7 +3,7 @@
 <h3 align="center">Developer And Problem Solver</h3>
 <br><img align="center" alt="Coding" width="1000px" height="500vh"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=prashantkumarupadhyay2504&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=vitoyayo&label=Profile%20views&color=0e75b6&style=flat)" alt="vitoyayo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumarupadhyay2504&label=Profile%20views&color=0e75b6&style=flat" alt="vitoyayo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoyayo&theme=algolia" alt="vitoyayo" /></a> </p>
 
